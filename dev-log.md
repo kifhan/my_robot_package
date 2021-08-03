@@ -47,6 +47,7 @@ usb-devices
 ---
 ## Todo
 
+- [ ] make imu bno055 udev rules
 - [ ] cartographer
 - [ ] octomap
 - [ ] ssl_slam2
